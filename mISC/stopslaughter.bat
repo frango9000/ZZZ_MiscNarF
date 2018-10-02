@@ -1,0 +1,1 @@
+schtasks /end /tn killch /F
